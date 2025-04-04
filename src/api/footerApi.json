@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find us",
+      "details": "Bhopal , MP"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call us",
+      "details": "7748073285"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail us",
+      "details": "contact@worldatlas.com" 
+    }
+  ]
